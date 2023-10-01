@@ -1,4 +1,4 @@
 # AJ-demo
 This is my first repository.
 <br>
-author- Amit Jadhav
+author- Amit S. Jadhav
